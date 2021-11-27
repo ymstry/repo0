@@ -1,5 +1,5 @@
 public class file1(){
 	public static void main() {
-		System.out.println("Aa");
+		System.out.println("Aaa");
 	}
 }
